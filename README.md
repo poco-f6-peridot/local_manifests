@@ -74,5 +74,5 @@ rm -rf hardware/qcom-caf/common/ && git clone https://github.com/peridot-dev/and
 ```
 vendor_qcom_opensource_vibrator
 ```bash
-rm -rf hardware/qcom-caf/common/ && git clone https://github.com/peridot-dev/android_hardware_qcom-caf_common.git hardware/qcom-caf/common/
+rm -rf vendor/qcom/opensource/vibrator/ && git clone https://github.com/peridot-dev/android_hardware_qcom-caf_common.git vendor/qcom/opensource/vibrator/
 ```
